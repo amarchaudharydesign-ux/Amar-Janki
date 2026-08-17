@@ -1,12 +1,7 @@
-# Amar & Janki — Friendship Invitation V4
+# Amar & Janki — Temple Edition
 
-Added a dedicated temple-selection page before date selection.
+Flow:
+YES → Food → Temple → Date → Time → Summary → WhatsApp.
 
-Temple choices:
-- Chhatarpur Temple
-- Kalkaji Mandir
-- Akshardham Temple
-- Birla Mandir
-- ISKCON Temple
-
-The selected temple appears in the summary and WhatsApp confirmation.
+There is no activity-selection page.
+Temple choices: Chhatarpur Temple, Kalkaji Mandir, Akshardham Temple, Birla Mandir, ISKCON Temple.
