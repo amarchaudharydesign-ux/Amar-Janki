@@ -1,5 +1,12 @@
-# Amar ❤️ Aanchal — Date Invitation V2
+# Amar & Janki — Friendship Invitation V4
 
-Updated flow: YES-only runaway No button → love image → food multi-select → penguin/love image → activity multi-select → love image → date → time → summary → WhatsApp confirmation.
+Added a dedicated temple-selection page before date selection.
 
-The supplied transition images are included in `assets/`.
+Temple choices:
+- Chhatarpur Temple
+- Kalkaji Mandir
+- Akshardham Temple
+- Birla Mandir
+- ISKCON Temple
+
+The selected temple appears in the summary and WhatsApp confirmation.
